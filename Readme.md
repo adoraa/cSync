@@ -17,7 +17,7 @@ CampuSync is a comprehensive solution for managing the maintenance and lifecycle
 
 ## Structure
 
-The landing page is divided into several key sections:
+The landing page is divided into several key sections -
 
 1. **Header**
     - Logo
